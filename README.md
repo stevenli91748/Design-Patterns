@@ -69,26 +69,15 @@
 
 # 3.  多线程设计模式
 
-## 3.1.  Single Threaded Execution 模式
-
-## 3.2.  Immutable 模式
-
-## 3.3.  Guarded Suspension 模式
-
-## 3.4.  Balking 模式
-
-## 3.5.  Producer-Consumer 模式
-
-## 3.6.  Read-Write lock 模式
-
-## 3.7.  Thread-Per-Message 模式
-
-## 3.8.  Worker Thread 模式
-
-## 3.9.  Future 模式
-
-## 3.10. Two-Phase Termination 模式
-
-## 3.11. Thread-Specific Storage 模式
-
-## 3.12. Active Object 模式
+*  3.1.  Single Threaded Execution 模式
+*  3.2.  Immutable 模式
+*  3.3.  Guarded Suspension 模式
+*  3.4.  Balking 模式
+*  3.5.  Producer-Consumer 模式
+*  3.6.  Read-Write lock 模式
+*  3.7.  Thread-Per-Message 模式
+*  3.8.  Worker Thread 模式
+*  3.9.  Future 模式
+*  3.10. Two-Phase Termination 模式
+*  3.11. Thread-Specific Storage 模式
+*  3.12. Active Object 模式
