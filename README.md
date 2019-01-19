@@ -81,3 +81,15 @@
 *  3.10. Two-Phase Termination 模式
 *  3.11. Thread-Specific Storage 模式
 *  3.12. Active Object 模式
+
+
+
+# 有用的参考
+
+* [设计模式之单例模式实践](https://mp.weixin.qq.com/s/iOvBuv2yFb8Jyw_6WRWpsA)
+* [设计模式之静态代理模式实战](https://mp.weixin.qq.com/s/bXeP_9MfztebxEJaH_pDww)
+* [设计模式之动态代理模式实战](https://mp.weixin.qq.com/s/DURtDQVKgHXOprM5Lr1QXA)
+* [详解 Java 中的三种代理模式](https://mp.weixin.qq.com/s/nBmbNP2mR7ei-lDsuOxjWg)
+
+
+
