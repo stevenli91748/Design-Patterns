@@ -90,6 +90,7 @@
 * [设计模式之静态代理模式实战](https://mp.weixin.qq.com/s/bXeP_9MfztebxEJaH_pDww)
 * [设计模式之动态代理模式实战](https://mp.weixin.qq.com/s/DURtDQVKgHXOprM5Lr1QXA)
 * [详解 Java 中的三种代理模式](https://mp.weixin.qq.com/s/nBmbNP2mR7ei-lDsuOxjWg)
+* [详解设计模式在Spring中的应用](https://blog.csdn.net/Y0Q2T57s/article/details/87899161)
 
 
 
