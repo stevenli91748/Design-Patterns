@@ -91,6 +91,7 @@
 * [设计模式之动态代理模式实战](https://mp.weixin.qq.com/s/DURtDQVKgHXOprM5Lr1QXA)
 * [详解 Java 中的三种代理模式](https://mp.weixin.qq.com/s/nBmbNP2mR7ei-lDsuOxjWg)
 * [详解设计模式在Spring中的应用](https://blog.csdn.net/Y0Q2T57s/article/details/87899161)
+* [涵盖了七个面向对象设计原则和24个设计模式](https://quanke.gitbooks.io/design-pattern-java/content/)
 
 
 
