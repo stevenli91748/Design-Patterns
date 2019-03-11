@@ -1,4 +1,4 @@
-# [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
+# [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 
 
 # 设计模式（Design-Patterns）
