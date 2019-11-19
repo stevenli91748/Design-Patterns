@@ -84,7 +84,9 @@
 *  3.11. Thread-Specific Storage 模式
 *  3.12. Active Object 模式
 
+# 视频
 
+* [尚硅谷-图解Java设计模式](https://www.bilibili.com/video/av58042929?from=search&seid=8766917260672308065)
 
 # 有用的参考
 
