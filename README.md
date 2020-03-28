@@ -87,6 +87,7 @@
 # 视频
 
 * [尚硅谷-图解Java设计模式](https://www.bilibili.com/video/av58042929?from=search&seid=8766917260672308065)
+* [Java设计模式 同时采用  Debug方式+内存分析 讲解抽象程度高的设计模式的视频  在f:/软件架构设计/视频/    ]
 * [design patterns in java](https://www.youtube.com/watch?v=3_PUDwN01BQ&list=PLgzDdh90-m_S6ABC43AJ-q4t1LsYxdPAn)
 
 # 有用的参考
