@@ -93,7 +93,7 @@
 * [design patterns in java](https://www.youtube.com/watch?v=3_PUDwN01BQ&list=PLgzDdh90-m_S6ABC43AJ-q4t1LsYxdPAn)
 
 # 有用的参考
-
+* [23种设计模式全解析](https://blog.csdn.net/longyulu/article/details/9159589)
 * [设计模式之单例模式实践](https://mp.weixin.qq.com/s/iOvBuv2yFb8Jyw_6WRWpsA)
 * [设计模式之静态代理模式实战](https://mp.weixin.qq.com/s/bXeP_9MfztebxEJaH_pDww)
 * [设计模式之动态代理模式实战](https://mp.weixin.qq.com/s/DURtDQVKgHXOprM5Lr1QXA)
