@@ -8,11 +8,16 @@
 目录
 ----
 
+[软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[十种软件架构设计模式(Architectural Pattern)](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|
+---|---|
+
+
 [设计模式分三种类型：结构型、创建型和行为型，这三者类型其实对应着一个系统的三个阶段：设计阶段、创建阶段和运行阶段](https://www.jdon.com/46774)|
 ---|
 
 [类与数据结构的比较！每个优秀的软件设计师和架构师都需要牢记的问题](https://www.jdon.com/52533)|
 ---|
+
 
 # 1.  23种传统设计模式
 
