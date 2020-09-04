@@ -112,5 +112,5 @@
 * [详解设计模式在Spring中的应用](https://blog.csdn.net/Y0Q2T57s/article/details/87899161)
 * [涵盖了七个面向对象设计原则和24个设计模式](https://quanke.gitbooks.io/design-pattern-java/content/)
 * [设计模式内容聚合---非常强大](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488811&idx=4&sn=ec20f59a5b67a59d98d221bd20d78448&chksm=ebd62a07dca1a31188dafea0e6984b4883fa972a32ff31da2df6f52fcc73b56c6c9454751d73&scene=21)
-
+* [Java 后端面试题 - 设计模式篇](https://hacpai.com/article/1583476977456)
 
