@@ -8,6 +8,10 @@
 目录
 ----
 
+[精尽设计模式学习指南](http://svip.iocoder.cn/Design-Pattern/tutorials/)|
+---|
+
+
 [软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[十种软件架构设计模式(Architectural Pattern)](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|
 ---|---|
 
