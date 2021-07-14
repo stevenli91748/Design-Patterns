@@ -8,6 +8,9 @@
 目录
 ----
 
+[重学Java设计模式---基于互联网真实案例编写的Java设计模式](https://bugstack.cn/itstack/itstack-demo-design.html '以解决方案为核心，从实际开发业务中抽离出交易、营销、规则引擎、中间件、框架源码等22个真实场景，对设计模式进行全面、彻底的分析。帮助读者灵活地使用各种设计模式')|
+---|
+
 [精尽设计模式学习指南](http://svip.iocoder.cn/Design-Pattern/tutorials/)|[云设计模式: 面向云应用程序的规范性体系结构指南](https://blog.csdn.net/DERRANTCM/article/details/104219350)|[Github 排名第三的设计模式项目](https://github.com/iluwatar/java-design-patterns)|
 ---|---|---|
 
@@ -24,6 +27,8 @@
 
 
 # 1.  23种传统设计模式
+
+
 
 ## 1.1.  创建型模式
  * 简单工厂模式(Simple Factory)---常用模式
