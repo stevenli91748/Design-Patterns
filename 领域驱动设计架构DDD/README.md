@@ -11,4 +11,11 @@
 # 有用的参考
 
 * [DDD与MVC的区别](https://segmentfault.com/q/1010000000440138)
+* [可落地的DDD(1)-目标讨论](https://juejin.cn/post/6844903846712442888)
+* [可落地的DDD的(2)-为什么说MVC工程架构已经过时](https://juejin.cn/post/6844903848327413773)
+* [可落地的DDD(3)-如何利用DDD进行微服务的划分](https://juejin.cn/post/6844903857093345287)
+* [可落地的DDD(4)-如何利用DDD进行微服务的划分(2)](https://juejin.cn/post/6844903858339069959)
+* [可落地的DDD(5)-战术设计](https://juejin.cn/post/6844903873144946702)
+* [DDD-CQRS能解什么问题](https://blog.csdn.net/FS1360472174/article/details/88542163)
+* [DDD-CQRS的落地案例](https://juejin.cn/post/6844904062953996296)
  
