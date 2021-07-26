@@ -21,4 +21,4 @@
 * [可落地的DDD(5)-战术设计](https://juejin.cn/post/6844903873144946702)
 * [DDD-CQRS能解什么问题](https://blog.csdn.net/FS1360472174/article/details/88542163)
 * [DDD-CQRS的落地案例](https://juejin.cn/post/6844904062953996296)
- 
+* [为什么DDD是设计微服务的最佳实践](https://juejin.cn/post/6844903912802091021)
