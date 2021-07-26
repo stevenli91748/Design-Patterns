@@ -1,5 +1,5 @@
 
-[解道： 领域驱动设计(DDD:Domain-Driven Design)](https://www.jdon.com/ddd.html)|[领域驱动设计在互联网业务开发中的实践](https://tech.meituan.com/2017/12/22/ddd-in-practice.html)|
+[解道： 领域驱动设计(DDD:Domain-Driven Design)](https://www.jdon.com/ddd.html)|[美团技术团队: 领域驱动设计在互联网业务开发中的实践](https://tech.meituan.com/2017/12/22/ddd-in-practice.html)|
 ---|---|
 
 # 案例
