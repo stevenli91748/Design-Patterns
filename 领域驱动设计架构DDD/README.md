@@ -5,6 +5,10 @@
 [DDD 模式从天书到实践](https://juejin.cn/post/6844904049377017869)|[京东平台研发——领域驱动设计（DDD）实践](https://www.jianshu.com/p/bee314f3a7d3)|[DDD分层架构的应用](https://www.jianshu.com/p/6bb57268b3c2)|[领域驱动设计（DDD）理论与方法](https://www.jianshu.com/p/cbc14c820803)|
 ---|---|---|---|
 
+[DDD研究十年心得：《复杂软件设计之道：领域驱动设计全面解析与实战》出版](https://www.jdon.com/54881)|
+---|
+
+
 # 案例
 * [DDD专题案例一《初识领域驱动设计DDD落地》](https://bugstack.cn/itstack-demo-ddd/2019/10/15/DDD%E4%B8%93%E9%A2%98%E6%A1%88%E4%BE%8B%E4%B8%80-%E5%88%9D%E8%AF%86%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1DDD%E8%90%BD%E5%9C%B0.html)
 * [DDD专题案例二《领域层决策规则树服务设计》](https://bugstack.cn/itstack-demo-ddd/2019/10/16/DDD%E4%B8%93%E9%A2%98%E6%A1%88%E4%BE%8B%E4%BA%8C-%E9%A2%86%E5%9F%9F%E5%B1%82%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%99%E6%A0%91%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.html)
