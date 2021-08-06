@@ -14,7 +14,13 @@
 [精尽设计模式学习指南](http://svip.iocoder.cn/Design-Pattern/tutorials/)|[云设计模式: 面向云应用程序的规范性体系结构指南](https://blog.csdn.net/DERRANTCM/article/details/104219350)|[Github 排名第三的设计模式项目](https://github.com/iluwatar/java-design-patterns)|
 ---|---|---|
 
-[设计模式的六大原则](https://www.runoob.com/design-pattern/design-pattern-intro.html)|
+[设计模式的六大原则](https://www.runoob.com/design-pattern/design-pattern-intro.html)|[设计模式与系统阶段](https://www.jdon.com/46774)|
+---|---|
+
+[设计模式分三种类型：结构型、创建型和行为型，这三者类型其实对应着一个系统的三个阶段：设计阶段、创建阶段和运行阶段](https://www.jdon.com/46774)|
+---|
+
+[类与数据结构的比较！每个优秀的软件设计师和架构师都需要牢记的问题](https://www.jdon.com/52533)|
 ---|
 
 
@@ -26,14 +32,10 @@
 ---|---|
 
 
-[设计模式分三种类型：结构型、创建型和行为型，这三者类型其实对应着一个系统的三个阶段：设计阶段、创建阶段和运行阶段](https://www.jdon.com/46774)|
----|
 
 [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|
 ---|
 
-[类与数据结构的比较！每个优秀的软件设计师和架构师都需要牢记的问题](https://www.jdon.com/52533)|
----|
 
 
 # 1.  23种传统设计模式
