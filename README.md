@@ -14,6 +14,10 @@
 [精尽设计模式学习指南](http://svip.iocoder.cn/Design-Pattern/tutorials/)|[云设计模式: 面向云应用程序的规范性体系结构指南](https://blog.csdn.net/DERRANTCM/article/details/104219350)|[Github 排名第三的设计模式项目](https://github.com/iluwatar/java-design-patterns)|
 ---|---|---|
 
+[设计模式的六大原则](https://www.runoob.com/design-pattern/design-pattern-intro.html)|
+---|
+
+
 [领域驱动设计架构DDD](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)|
 ---|
 
@@ -64,13 +68,14 @@
 
  * 观察者模式(Observer)---常用模式
  * 迭代模式(lterator)
- * 责任模式(chain of respon)
+ * 责任模式(chain of responsiblity)
  * 命令模式(Command)---常用模式
                 
 ### 1.3.3.  类的状态
 
  * 备忘录模式(Memento)
  * 状态模式(State)
+ * 空对象模式(Null Object)
      
 ### 1.3.4.  通过中间类
 
@@ -80,16 +85,16 @@
     
 # 2.  J2EE模式
 
- * 门面模式
- * 单例模式
  * 依赖注入与CDI
- * 工厂模式
- * 装饰模式
- * 拦截器模式
  * 异步模式
- * 定时器模式
- * 观察者模式
- * 数据访问模式
+ * MVC 模式（MVC Pattern）
+ * 业务代表模式（Business Delegate Pattern）
+ * 组合实体模式（Composite Entity Pattern）
+ * 数据访问对象模式（Data Access Object Pattern）
+ * 前端控制器模式（Front Controller Pattern）
+ * 拦截过滤器模式（Intercepting Filter Pattern）
+ * 服务定位器模式（Service Locator Pattern）
+ * 传输对象模式（Transfer Object Pattern）
  
  ## 2.1.  JAVA EE 中的其他模式
   
