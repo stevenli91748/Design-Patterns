@@ -3,7 +3,7 @@
 
 # 设计模式（Design-Patterns）
 
-<a href="https://ibb.co/4THfVSp"><img src="https://i.ibb.co/R0qSD6c/image.jpg" alt="image" border="0"></a>
+
 <a href="https://ibb.co/wYxztkD"><img src="https://i.ibb.co/YbqLgCv/image.jpg" alt="image" border="0"></a>
 目录
 ----
