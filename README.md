@@ -63,7 +63,7 @@
 
 ### 1.3.1  父类与子类
 
- * 策略模式(Strategy)---常用模式
+ * [策略模式(Strategy)---常用模式](https://github.com/stevenli91748/Design-Patterns/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F(Strategy).md)
  * 模版方法模式(Template)---常用模式
       
 ### 1.3.2.   两个类之间
