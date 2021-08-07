@@ -51,7 +51,7 @@
  * 原型模式(Prototype)
 
 ## 1.2.  结构模式---这些设计模式关注类和对象的组合，组合接口和定义组合对象获得新功能的方式 ,结构型模式指出如何设计出系统的结构 ,对应系统设计阶段，共同点是针对代码结构如何设计
- * 桥接模式(Bridge)---常用模式
+ * [桥接模式(Bridge)---常用模式](https://github.com/stevenli91748/Design-Patterns/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F(Bridge).md)
  * 组合模式(Composite)
  * 适配器模式(Adapter)
  * 装饰模式(Decorator)---常用模式
