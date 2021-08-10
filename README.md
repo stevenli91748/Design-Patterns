@@ -103,8 +103,7 @@
   
   * WebSockets 模式
   * 面向消息的中间件模式
-  * 微服务架构模式
- 
+  * [微服务的设计模式](https://www.kubernetes.org.cn/9532.html)
 
 # 3.  多线程设计模式
 
