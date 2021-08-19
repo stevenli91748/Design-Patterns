@@ -11,8 +11,8 @@
 [重学Java设计模式---基于互联网真实案例编写的Java设计模式](https://bugstack.cn/itstack/itstack-demo-design.html '以解决方案为核心，从实际开发业务中抽离出交易、营销、规则引擎、中间件、框架源码等22个真实场景，对设计模式进行全面、彻底的分析。帮助读者灵活地使用各种设计模式')|[经典设计模式讲解以及项目实战（Java版）](https://github.com/landy8530/DesignPatterns)|
 ---|---|
 
-[Mybird Java设计模式快速学习](https://mrbird.cc/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html)|
----|
+[Mybird Java设计模式快速学习](https://mrbird.cc/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html)|[写最好的设计模式专栏---认真讲解 ，认真分析，认真总结每一个设计模式和设计原则，与实例相结合，理解更加深刻](https://www.kancloud.cn/digest/xing-designpattern/143717)|
+---|---|
 
 
 [精尽设计模式学习指南](http://svip.iocoder.cn/Design-Pattern/tutorials/)|[云设计模式: 面向云应用程序的规范性体系结构指南](https://blog.csdn.net/DERRANTCM/article/details/104219350)|[Github 排名第三的设计模式项目](https://github.com/iluwatar/java-design-patterns)|
