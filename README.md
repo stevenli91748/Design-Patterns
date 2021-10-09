@@ -9,7 +9,7 @@
 # 在线书籍
 
 * [设计模式就该这样学：基于经典框架源码和真实业务场景](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
-
+* [java 实现单例模式的 9 种方法](https://www.javaweb.shop/article/130.html)
 
 目录
 ----
