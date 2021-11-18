@@ -26,6 +26,10 @@
   *  [[最全面微服务教程: SpringBoot + DDD + Apache Kafka实现最终一致性(2)：在Kubernetes与Istio运维微服务 英文版](https://itnext.io/eventual-consistency-with-spring-for-apache-kafka-part-2-of-2-23bedd512ccf)
 
 
+# 目录
+
+* [领域驱动设计](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak70e32fb021170efdf2eca12)
+
 # 视频
 * [DDD视频](https://search.bilibili.com/all?keyword=DDD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&from_source=web_search)
 
