@@ -3,7 +3,7 @@
 # 在线书籍
 
 * [邻域驱动设计](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
-
+* [复杂软件设计之道：邻域驱动设计全面解析与实战](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
 
 ---
 
