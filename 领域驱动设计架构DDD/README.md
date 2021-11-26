@@ -38,6 +38,7 @@
 # 目录
 
 * [领域驱动设计](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak70e32fb021170efdf2eca12)
+* [Spring Cloud 与 邻域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
 
 # 视频
 * [DDD视频](https://search.bilibili.com/all?keyword=DDD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&from_source=web_search)
