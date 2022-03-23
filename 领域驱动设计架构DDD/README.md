@@ -73,8 +73,8 @@
 * [领域驱动设计中的核心内容是领域模型](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k341323f021e34173cb3824c)
   * 建模方法
     * 领域驱动（DDD）
-    * 用例驱动（UDD）
-    * 四色建模
+    * [用例驱动（UDD）](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k341323f021e34173cb3824c)
+    * [四色建模](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k341323f021e34173cb3824c)
     * CRC建模
     * CQRS建模
 * 领域模型驱动设计实践
