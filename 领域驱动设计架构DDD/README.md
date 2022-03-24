@@ -22,9 +22,10 @@
 
 # 在线书籍
 
-* [邻域驱动设计](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
+* [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [复杂软件设计之道：邻域驱动设计全面解析与实战](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
-
+* [实现邻域驱动设计](https://weread.qq.com/web/reader/f5032ce071fd5a64f50b0f6)
+* [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
 ---
 
 
