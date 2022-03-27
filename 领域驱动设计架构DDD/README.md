@@ -23,7 +23,7 @@
 # 在线书籍
 
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
-* [复杂软件设计之道：邻域驱动设计全面解析与实战](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
+* [复杂软件设计之道：邻域驱动设计全面解析与实战---DDD研究十年心得](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
 * [实现邻域驱动设计](https://weread.qq.com/web/reader/f5032ce071fd5a64f50b0f6)
 * [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
 ---
@@ -35,8 +35,6 @@
 [DDD 模式从天书到实践](https://juejin.cn/post/6844904049377017869)|[京东平台研发——领域驱动设计（DDD）实践](https://www.jianshu.com/p/bee314f3a7d3)|[DDD分层架构的应用](https://www.jianshu.com/p/6bb57268b3c2)|[领域驱动设计（DDD）理论与方法](https://www.jianshu.com/p/cbc14c820803)|
 ---|---|---|---|
 
-[DDD研究十年心得：《复杂软件设计之道：领域驱动设计全面解析与实战》出版](https://www.jdon.com/54881)|
----|
 
 
 # 案例
