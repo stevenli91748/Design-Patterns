@@ -32,8 +32,8 @@
 [解道： 领域驱动设计(DDD:Domain-Driven Design)](https://www.jdon.com/ddd.html)|[美团技术团队: 领域驱动设计在互联网业务开发中的实践](https://tech.meituan.com/2017/12/22/ddd-in-practice.html)|
 ---|---|
 
-[DDD 模式从天书到实践](https://juejin.cn/post/6844904049377017869)|[京东平台研发——领域驱动设计（DDD）实践](https://www.jianshu.com/p/bee314f3a7d3)|[DDD分层架构的应用](https://www.jianshu.com/p/6bb57268b3c2)|[领域驱动设计（DDD）理论与方法](https://www.jianshu.com/p/cbc14c820803)|
----|---|---|---|
+[DDD 模式从天书到实践](https://juejin.cn/post/6844904049377017869)|[京东平台研发——领域驱动设计（DDD）实践](https://www.jianshu.com/p/bee314f3a7d3)|[DDD分层架构的应用](https://www.jianshu.com/p/6bb57268b3c2)|
+---|---|---|
 
 
 
