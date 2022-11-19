@@ -20,6 +20,10 @@
 
 
 
+# 视频
+
+[DDD 领域驱动设计](https://www.youtube.com/watch?v=b3Au9Iw8mFU&list=PLvlChfJP2hjy_CL4ur3zLEoO_Ci_ZOuQb)
+
 # 在线书籍
 
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
