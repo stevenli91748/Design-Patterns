@@ -22,8 +22,9 @@
 
 # 视频
 
-[DDD 领域驱动设计](https://www.youtube.com/watch?v=b3Au9Iw8mFU&list=PLvlChfJP2hjy_CL4ur3zLEoO_Ci_ZOuQb)
-
+* [DDD 领域驱动设计](https://www.youtube.com/watch?v=b3Au9Iw8mFU&list=PLvlChfJP2hjy_CL4ur3zLEoO_Ci_ZOuQb)
+* [互联网大厂的未来架构之道DDD领域驱动设计实战---图灵课堂官方](https://www.youtube.com/watch?v=-If87fF1lwo&t=2104s)
+* [DDD领域驱动设计实战图灵课堂官方诸葛老师](https://www.youtube.com/watch?v=gIGd0jOe--E)
 # 在线书籍
 
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
