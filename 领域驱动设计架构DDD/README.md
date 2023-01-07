@@ -26,6 +26,7 @@
 * [互联网大厂的未来架构之道DDD领域驱动设计实战---图灵课堂官方](https://www.youtube.com/watch?v=-If87fF1lwo&t=2104s)
 * [DDD领域驱动设计实战图灵课堂官方诸葛老师](https://www.youtube.com/watch?v=gIGd0jOe--E)
 * [白话讲解领域驱动设计domain driven design (DDD)](https://www.youtube.com/watch?v=Bl39p7SfuJk)
+* [Domain-Driven Design Taiwan](https://www.youtube.com/@domain-drivendesigntaiwan2794/videos)
 # 在线书籍
 
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
