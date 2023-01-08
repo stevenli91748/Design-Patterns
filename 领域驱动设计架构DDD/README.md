@@ -53,6 +53,8 @@
 * [单体应用服务之SSM整合：Spring4 + SpringMvc + Mybatis---工程模型采用DDD四层架构](https://bugstack.cn/itstack-demo-frame/2019/12/22/%E6%9E%B6%E6%9E%84%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA(%E4%B8%80)-%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E4%B9%8BSSM%E6%95%B4%E5%90%88-Spring4-+-SpringMvc-+-Mybatis.html)
 * [带头撸项目，《DDD + RPC 开发分布式架构，抽奖系统》](https://bugstack.cn/framework/2021/08/22/%E5%B8%A6%E5%A4%B4%E6%92%B8%E9%A1%B9%E7%9B%AE-DDD-+-RPC-%E5%BC%80%E5%8F%91%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84-%E6%8A%BD%E5%A5%96%E7%B3%BB%E7%BB%9F.html)
 * [Spring Cloud与领域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
+* [DDD案例源码](https://www.jdon.com/tag-19145/)
+
 
 #### 最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性
   *  [最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性(1) ](https://www.jdon.com/56424)
