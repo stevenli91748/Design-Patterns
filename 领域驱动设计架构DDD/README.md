@@ -94,7 +94,7 @@
 * [DDD视频](https://search.bilibili.com/all?keyword=DDD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&from_source=web_search)
 
 # 有用的参考
-
+* [一年的回顾：我的领域驱动设计之路 ](https://www.cnblogs.com/xishuai/p/ddd-one-year.html)
 * [DDD中聚合、聚合根的含义以及作用](https://www.cnblogs.com/Courage129/p/14861100.html)
 * [DDD中实体与值对象是干什么的](https://www.cnblogs.com/Courage129/p/14855483.html)
 * [DDD中限界上下文与通用语言的作用](https://www.cnblogs.com/Courage129/p/14854367.html)
